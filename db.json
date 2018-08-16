@@ -1,0 +1,14 @@
+{
+  "login": [
+    { "user": "bruno", "password": "1234567" },
+    { "user": "nahuel", "password": "123456" },
+    { "user": "pablo", "password": "12345" }
+  ],
+  "response": [
+    { "id": 1, "answer": 0 },
+    { "id": 2, "answer": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
